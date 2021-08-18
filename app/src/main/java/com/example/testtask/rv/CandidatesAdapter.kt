@@ -15,4 +15,9 @@ class CandidatesAdapter(
         holder.bind(data[position])
 
     override fun getItemCount(): Int = data.size
+
+    fun setList(list: List<Candidate>) {
+        data = list
+        notifyDataSetChanged()
+    }
 }
