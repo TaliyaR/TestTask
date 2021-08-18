@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TestTask</string>
+
+    <string name="main_title">Test task by Taliya Arsembekova</string>
+    <string name="main_list_title">Candidates</string>
+    <string name="main_people">people</string>
+    <string name="action_profile">Profile</string>
+
 </resources>
