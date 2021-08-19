@@ -6,4 +6,6 @@
     <string name="main_people">people</string>
     <string name="action_profile">Profile</string>
 
+    <string name="alert">It will be added soon</string>
+    <string name="alert_button">Ok</string>
 </resources>

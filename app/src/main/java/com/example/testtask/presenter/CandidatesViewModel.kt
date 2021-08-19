@@ -1,4 +1,4 @@
-package com.example.testtask.ui
+package com.example.testtask.presenter
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel

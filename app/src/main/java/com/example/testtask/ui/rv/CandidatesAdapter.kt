@@ -1,4 +1,4 @@
-package com.example.testtask.rv
+package com.example.testtask.ui.rv
 
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView

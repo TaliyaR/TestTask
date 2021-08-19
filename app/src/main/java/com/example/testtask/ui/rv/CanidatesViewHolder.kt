@@ -1,4 +1,4 @@
-package com.example.testtask.rv
+package com.example.testtask.ui.rv
 
 import android.view.LayoutInflater
 import android.view.View
@@ -20,7 +20,7 @@ class CanidatesViewHolder(
         tv_city.text = candidate.city
         tv_detail.text = candidate.detail
 
-        Glide.with(containerView.context).load(candidate.image).into(iv_photo)
+        Glide.with(containerView.context).load(candidate.image).centerCrop().into(iv_photo)
     }
 
     companion object {
